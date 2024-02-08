@@ -1,0 +1,65 @@
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.navbar  {
+    background: rgb(146, 248, 244);
+}
+
+.carousel-item  {
+    width: 100%;
+    height: 500px;
+}
+
+.promocoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px ;
+    gap: 60px;
+}
+
+.reviews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px ;
+    gap: 60px;
+}
+
+.card-img-top1 {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 10px;
+    border: none;
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+form {
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+
+
+    
+
